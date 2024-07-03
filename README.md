@@ -6,7 +6,8 @@
 Um podcast falando um pouco sobre algumas curiosidades do backend 
 
 ## 🤖 Tecnologias Utilizadas
-<a href="https://openai.com/pt-BR/"> chatGPT <a>
+<a href="https://openai.com/pt-BR/"> ChatGPT <a>
+
 <a href="https://elevenlabs.io"> elevenlabs <a>
 
 ## 🧐 Processo de Criação
